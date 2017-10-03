@@ -3,9 +3,6 @@
 
 Here I present the implementation code of my team's approach for solving the 1st KDD-BR (Brazilian Knowledge Discovery in Databases) competition hosted on Kaggle.
 
-##  &#42;&#42;&#42;Warning: we have not yet added the code to the repository, but we will do so after the conference dinner, at October, 4th.&#42;&#42;&#42;
-
-
 ## Requirements
 Python 3.5 with the following libraries:
 
