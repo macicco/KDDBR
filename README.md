@@ -12,27 +12,9 @@ Python 3.5 with the following libraries:
 * [Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) (>=0.3.0)
 
 ## Usage
-```python main.py [options] [outputFile]``` 
+```python main.py [outputFile]``` 
 
 ```
 outputFile: 
    path to the output file  
-
-Options:
-
-   -p polynomial_features : (default 0)
-       0 -- false (do not generate polynomial features) 
-       1 -- true (generate polynomial features) 
 ``` 
-
-We have selected two final submissions for judging. 
-
-To replicate the first selected submission (the one that did not generated polynomial features), use:
-
-		
-		python main.py outputFile.csv
-
-To replicate the second selected submission (the one that generated polynomial features), use:
-
-		
-		python main.py -p 1 outputFile.csv
